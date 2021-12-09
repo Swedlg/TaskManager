@@ -1,0 +1,9 @@
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerBusinessLogic\obj\Debug\netstandard2.0\TaskManagerBusinessLogic.csprojAssemblyReference.cache
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerBusinessLogic\obj\Debug\netstandard2.0\TaskManagerBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerBusinessLogic\obj\Debug\netstandard2.0\TaskManagerBusinessLogic.AssemblyInfo.cs
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerBusinessLogic\obj\Debug\netstandard2.0\TaskManagerBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerBusinessLogic\bin\Debug\netstandard2.0\TaskManagerBusinessLogic.deps.json
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerBusinessLogic\bin\Debug\netstandard2.0\TaskManagerBusinessLogic.dll
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerBusinessLogic\bin\Debug\netstandard2.0\TaskManagerBusinessLogic.pdb
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerBusinessLogic\obj\Debug\netstandard2.0\TaskManagerBusinessLogic.dll
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerBusinessLogic\obj\Debug\netstandard2.0\TaskManagerBusinessLogic.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="TaskManagerWPF.LinkDeveloperWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskManagerWPF"
+        mc:Ignorable="d"
+        Title="Форма привязки разработчика к этапу" Height="146.889" Width="323.556">
+    <Grid>
+        <Label x:Name="label_stage" Content="Этап:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_developer" Content="Разработчик:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_stage" HorizontalAlignment="Left" Height="23" Margin="98,14,0,0" TextWrapping="Wrap" IsReadOnly="True" VerticalAlignment="Top" Width="209"/>
+        <ComboBox x:Name="comboBox_developer" DisplayMemberPath="FullNameOfDeveloper" SelectedValuePath="Id" HorizontalAlignment="Left" Margin="98,45,0,0" VerticalAlignment="Top" Width="209"/>
+        <Button x:Name="button_link" Content="Привязать" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" Width="297" Height="35" Click="button_link_Click"/>
+    </Grid>
+</Window>

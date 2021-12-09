@@ -1,0 +1,24 @@
+﻿<Window x:Class="TaskManagerWPF.StageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskManagerWPF"
+        mc:Ignorable="d"
+        Title="Этап" Height="271" Width="387">
+    <Grid>
+        <Label x:Name="label_stage_description" Content="Описание этапа:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_stage_start_date" Content="Дата начала:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_stage_finish_date" Content="Дата окончания:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_isComplited" Content="Выполнен ли:" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_isDeleted" Content="Удален ли:" HorizontalAlignment="Left" Margin="10,134,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_task_id" Content="Задача" HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_stage_description" HorizontalAlignment="Left" Height="23" Margin="116,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254"/>
+        <DatePicker x:Name="datePicker_stage_start_date" HorizontalAlignment="Left" Margin="116,42,0,0" VerticalAlignment="Top" Width="254"/>
+        <DatePicker x:Name="datePicker_stage_finish_date" HorizontalAlignment="Left" Margin="116,73,0,0" VerticalAlignment="Top" Width="254"/>
+        <ComboBox x:Name="comboBox_task_id" DisplayMemberPath="TaskName" SelectedValuePath="Id" HorizontalAlignment="Left" Margin="116,169,0,0" VerticalAlignment="Top" Width="254"/>
+        <CheckBox x:Name="checkBox_isComplited" HorizontalAlignment="Left" Margin="116,110,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBox_isDeleted" HorizontalAlignment="Left" Margin="116,141,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button_save" Content="Сохранить" HorizontalAlignment="Left" Margin="10,196,0,0" VerticalAlignment="Top" Width="360" Height="35" Click="button_save_Click"/>
+    </Grid>
+</Window>

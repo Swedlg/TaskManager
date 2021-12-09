@@ -1,0 +1,16 @@
+﻿<Window x:Class="TaskManagerWPF.ProgramLanguageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskManagerWPF"
+        mc:Ignorable="d"
+        Title="Язык программирования" Height="151.667" Width="460">
+    <Grid>
+        <Label x:Name="label_language_name" Content="Название языка программирования:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_language_description" Content="Описание языка программирования:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_language_name" HorizontalAlignment="Left" Height="23" Margin="230,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="213"/>
+        <TextBox x:Name="textBox_language_description" HorizontalAlignment="Left" Height="23" Margin="230,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="213"/>
+        <Button x:Name="button_save" Content="Сохранить" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" Width="433" Height="41" Click="button_save_Click"/>
+    </Grid>
+</Window>

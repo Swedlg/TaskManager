@@ -1,0 +1,12 @@
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerPostgresDatabaseImplement\bin\Debug\netstandard2.0\TaskManagerPostgresDatabaseImplement.deps.json
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerPostgresDatabaseImplement\bin\Debug\netstandard2.0\TaskManagerPostgresDatabaseImplement.dll
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerPostgresDatabaseImplement\bin\Debug\netstandard2.0\TaskManagerPostgresDatabaseImplement.pdb
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerPostgresDatabaseImplement\bin\Debug\netstandard2.0\TaskManagerBusinessLogic.dll
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerPostgresDatabaseImplement\bin\Debug\netstandard2.0\TaskManagerBusinessLogic.pdb
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerPostgresDatabaseImplement\obj\Debug\netstandard2.0\TaskManagerPostgresDatabaseImplement.csprojAssemblyReference.cache
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerPostgresDatabaseImplement\obj\Debug\netstandard2.0\TaskManagerPostgresDatabaseImplement.AssemblyInfoInputs.cache
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerPostgresDatabaseImplement\obj\Debug\netstandard2.0\TaskManagerPostgresDatabaseImplement.AssemblyInfo.cs
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerPostgresDatabaseImplement\obj\Debug\netstandard2.0\TaskManagerPostgresDatabaseImplement.csproj.CoreCompileInputs.cache
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerPostgresDatabaseImplement\obj\Debug\netstandard2.0\TaskManagerPostgresDatabaseImplement.csproj.CopyComplete
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerPostgresDatabaseImplement\obj\Debug\netstandard2.0\TaskManagerPostgresDatabaseImplement.dll
+C:\Users\swedl\source\repos\TaskManagerBusinessLogic\TaskManagerPostgresDatabaseImplement\obj\Debug\netstandard2.0\TaskManagerPostgresDatabaseImplement.pdb

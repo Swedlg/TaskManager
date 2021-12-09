@@ -1,0 +1,20 @@
+﻿<Window x:Class="TaskManagerWPF.DeveloperWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskManagerWPF"
+        mc:Ignorable="d"
+        Title="Разработчик" Height="208" Width="362.222">
+    <Grid>
+        <Label x:Name="label_full_name" Content="Полное имя:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_position" Content="Должность" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_work_experience" Content="Опыт работы:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_isDeleted" Content="Удален ли:" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_full_name" HorizontalAlignment="Left" Height="23" Margin="101,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <TextBox x:Name="textBox_position" HorizontalAlignment="Left" Height="23" Margin="101,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <TextBox x:Name="textBox_work_experience" HorizontalAlignment="Left" Height="23" Margin="101,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <CheckBox x:Name="checkBox_isDeleted" HorizontalAlignment="Left" Margin="101,110,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button_save" Content="Сохранить" HorizontalAlignment="Left" Margin="10,134,0,0" VerticalAlignment="Top" Width="335" Height="35" Click="button_save_Click"/>
+    </Grid>
+</Window>
